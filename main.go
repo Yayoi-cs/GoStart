@@ -30,11 +30,6 @@ func _1() {
 // ###############################################
 // 2.3
 const x = 20
-const (
-	idKey   = "id"
-	nameKey = "name"
-)
-const z = 20 * 10
 
 func _3() {
 	fmt.Println(x)
